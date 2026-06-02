@@ -22,7 +22,7 @@ A free Android toilet health tracker — log your pee, poo, and hydration daily 
 
 ##  Screenshots
 
-![FlushLog Screenshots](flushlog_preview.jpg)
+![FlushLog Screenshots](flushlog_preview.png)
 
 ---
 
