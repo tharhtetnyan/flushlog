@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚽 FlushLog
+#  FlushLog
 
 A free Android toilet health tracker — log your pee, poo, and hydration daily to understand your body better and share clean health reports with your doctor.
 
@@ -12,7 +12,7 @@ A free Android toilet health tracker — log your pee, poo, and hydration daily 
 
 ---
 
-## 📲 How to Install
+##  How to Install
 
 1. Download the APK using the button above
 2. On your Android phone, open the downloaded file
@@ -20,32 +20,32 @@ A free Android toilet health tracker — log your pee, poo, and hydration daily 
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 ![FlushLog Screenshots](flushlog_preview.jpg)
 
 ---
 
-## ✨ Features
+##  Features
 
 | Feature | Description |
 |---|---|
-| 🏠 Home Dashboard | Daily summary of pee count, poo count, and water intake with smart insights |
-| 💧 Pee Logger | Log pee with color scale, urgency level, volume, and pain indicator |
-| 💩 Poo Logger | Log poo with Bristol Stool Scale type, color, duration, and straining |
-| 📊 Analytics | Bar charts for pee and poo trends over 7 days, 30 days, or 3 months |
-| 🔥 Streak Tracker | Tracks consecutive days of logging to build a healthy habit |
-| 🎨 Color Distribution | Visual breakdown of pee color and Bristol stool type history |
-| 📄 Doctor Report | Generate and share a clean PDF health summary directly with your doctor |
-| 📅 Log Book | Calendar view of all logs with filter by pee, poo, or all entries |
-| 📚 Learn | Clinical education on hydration, UTI signs, Bristol chart, and when to see a doctor |
-| 🌙 Dark Mode | Fully supported — toggle in Settings, persists across app restarts |
-| 🔔 Smart Reminders | Gentle notifications if no log is recorded after a set number of hours |
-| ⚙️ Settings | Reminder controls, dark mode toggle, water goal, and export options |
+|  Home Dashboard | Daily summary of pee count, poo count, and water intake with smart insights |
+|  Pee Logger | Log pee with color scale, urgency level, volume, and pain indicator |
+|  Poo Logger | Log poo with Bristol Stool Scale type, color, duration, and straining |
+|  Analytics | Bar charts for pee and poo trends over 7 days, 30 days, or 3 months |
+|  Streak Tracker | Tracks consecutive days of logging to build a healthy habit |
+|  Color Distribution | Visual breakdown of pee color and Bristol stool type history |
+|  Doctor Report | Generate and share a clean PDF health summary directly with your doctor |
+|  Log Book | Calendar view of all logs with filter by pee, poo, or all entries |
+|  Learn | Clinical education on hydration, UTI signs, Bristol chart, and when to see a doctor |
+|  Dark Mode | Fully supported — toggle in Settings, persists across app restarts |
+|  Smart Reminders | Gentle notifications if no log is recorded after a set number of hours |
+|  Settings | Reminder controls, dark mode toggle, water goal, and export options |
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Language:** Kotlin
 - **UI:** Jetpack Compose + Material 3
@@ -59,7 +59,7 @@ A free Android toilet health tracker — log your pee, poo, and hydration daily 
 
 ---
 
-## 🩺 Health Insights Logic
+##  Health Insights Logic
 
 FlushLog automatically analyses your logs and shows smart tips:
 
@@ -74,7 +74,7 @@ FlushLog automatically analyses your logs and shows smart tips:
 
 ---
 
-## 📋 Permissions Used
+##  Permissions Used
 
 | Permission | Reason |
 |---|---|
@@ -84,7 +84,7 @@ FlushLog automatically analyses your logs and shows smart tips:
 
 ---
 
-## 📄 Doctor Report
+##  Doctor Report
 
 FlushLog can generate a clean, professional PDF health report containing:
 
@@ -97,13 +97,13 @@ The share sheet opens immediately after generation so you can send it directly v
 
 ---
 
-## 🔒 Privacy
+##  Privacy
 
 FlushLog is 100% offline. All your health data — pee logs, poo logs, and settings — is stored locally on your device only. Nothing is sent anywhere. No accounts, no servers, no tracking.
 
 ---
 
-## 🏗️ Project Structure
+##  Project Structure
 
 ```
 flushlog/
@@ -130,7 +130,7 @@ flushlog/
 
 ---
 
-## 🎨 Color Palette
+##  Color Palette
 
 | Role | Light Mode | Dark Mode |
 |---|---|---|
